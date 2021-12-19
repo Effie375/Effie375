@@ -21,13 +21,13 @@ I am from Greece and I am studying as an undergraduate student from the **Univer
 
 ## University courses
 
-- [PLR100](../PLR100/README.md)
-- [PLR104](../PLR104/README.md)
-- [PLR110](../PLR110/README.md)
-- [PLR130](../PLR130/README.md)
+- PLR100
+- PLR104
+- PLR110
+- PLR130
 
 ## Projects
 
-- [CFS](../CSF/README.md)
-- [Louvre Museum](../louvre-museum/README.md)
-- [TkGrades](../TkGrades/README.md)
+- CFS
+- Louvre Museum
+- TkGrades
