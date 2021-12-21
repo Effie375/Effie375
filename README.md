@@ -21,13 +21,13 @@ I am from Greece and I am studying as an undergraduate student from the **Univer
 
 ## University courses
 
-- PLR100
-- PLR104
-- PLR110
-- PLR130
+- [PLR100](https://github.com/Effie375/PLR100)
+- [PLR104](https://github.com/Effie375/PLR104)
+- [PLR110](https://github.com/Effie375/PLR110)
+- [PLR132](https://github.com/Effie375/PLR132)
 
 ## Projects
 
-- CFS
-- Louvre Museum
-- TkGrades
+- [CFS](https://github.com/Effie375/CFS)
+- [Louvre Museum](https://github.com/Effie375/louvre-museum)
+- [TkGrades](https://github.com/Effie375/TkGrades)
