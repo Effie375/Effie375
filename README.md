@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 _**Cultural tecnology and communication|UotA**_ 👩‍🎓
+👩‍🎓 _**[Cultural tecnology and communication|UotA](http://www.ct.aegean.gr/En/En_Index)**_ 👩‍🎓
 
 I am from Greece and I am studying as an undergraduate student from the **University of the Aegean**, where I want to secure a place in the world of programming to use and further develop my analytical skills and knowledge in a practical and fast environment.
 
-## University courses
+## University Courses
 
 - [PLR100](https://github.com/Effie375/PLR100)
 - [PLR104](https://github.com/Effie375/PLR104)
