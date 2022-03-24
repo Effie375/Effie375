@@ -1,20 +1,5 @@
 # Hi, I'm Efstratia Kazi 👋
 
-<!--
-**Effie375/Effie375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 👩‍🎓 _**[Cultural tecnology and communication|UotA](http://www.ct.aegean.gr/En/En_Index)**_ 👩‍🎓
 
 I am from Greece and I am an undergraduate student from the **University of the Aegean**, where I want to secure a place in the world of programming to use and further develop my analytical skills and knowledge in a practical and fast environment.
@@ -32,6 +17,11 @@ I am from Greece and I am an undergraduate student from the **University of the 
 - [CFS](https://github.com/Effie375/CFS)
 - [Louvre Museum](https://github.com/Effie375/louvre-museum)
 - [TkGrades](https://github.com/Effie375/TkGrades)
+
+## My Websites
+
+- [TPTE-Notes (Wix)](https://effie13kaz.wixsite.com/tpte-notes)
+- [Louvre Museum (WordPress)](http://louvre-museum.atwebpages.com/)
 
 ### 🛠 &nbsp;Tech Stack
 
