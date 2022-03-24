@@ -20,8 +20,8 @@ I am from Greece and I am an undergraduate student from the **University of the 
 
 ## My Websites
 
-- [TPTE-Notes (Wix)](https://effie13kaz.wixsite.com/tpte-notes)
-- [Louvre Museum (WordPress)](http://louvre-museum.atwebpages.com/)
+- [TPTE-Notes](https://effie13kaz.wixsite.com/tpte-notes)
+- [Louvre Museum](http://louvre-museum.atwebpages.com/)
 
 ### 🛠 &nbsp;Tech Stack
 
