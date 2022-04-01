@@ -18,6 +18,11 @@ I am from Greece and I am an undergraduate student from the **University of the 
 - [Louvre Museum](https://github.com/Effie375/louvre-museum)
 - [TkGrades](https://github.com/Effie375/TkGrades)
 
+## Documentation
+- [Ubuntu](https://github.com/Effie375/Ubuntu)
+- [NumPy - Tutorial](https://github.com/Effie375/NumPy-Tutorial)
+- [Matplotlib](https://github.com/Effie375/Matplotlib)
+
 ## My Websites
 
 - [TPTE-Notes](https://effie13kaz.wixsite.com/tpte-notes)
