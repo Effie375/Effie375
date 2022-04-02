@@ -4,7 +4,7 @@
 
 I am from Greece and I am an undergraduate student from the **University of the Aegean**, where I want to secure a place in the world of programming to use and further develop my analytical skills and knowledge in a practical and fast environment.
 
-## University Courses
+## My University Courses
 
 - [PLR100](https://github.com/Effie375/PLR100)
 - [PLR104](https://github.com/Effie375/PLR104)
@@ -12,13 +12,13 @@ I am from Greece and I am an undergraduate student from the **University of the 
 - [PLR115](https://github.com/Effie375/PLR115)
 - [PLR132](https://github.com/Effie375/PLR132)
 
-## Projects
+## My Projects
 
 - [CFS](https://github.com/Effie375/CFS)
 - [Louvre Museum](https://github.com/Effie375/louvre-museum)
 - [TkGrades](https://github.com/Effie375/TkGrades)
 
-## Documentation
+## My Repositories
 - [Ubuntu](https://github.com/Effie375/Ubuntu)
 - [NumPy](https://github.com/Effie375/NumPy)
 - [Matplotlib](https://github.com/Effie375/Matplotlib)
