@@ -20,8 +20,9 @@ I am from Greece and I am an undergraduate student from the **University of the 
 
 ## Documentation
 - [Ubuntu](https://github.com/Effie375/Ubuntu)
-- [NumPy - Tutorial](https://github.com/Effie375/NumPy-Tutorial)
+- [NumPy](https://github.com/Effie375/NumPy)
 - [Matplotlib](https://github.com/Effie375/Matplotlib)
+- [Jupyter](https://github.com/Effie375/Jupyter)
 
 ## My Websites
 
