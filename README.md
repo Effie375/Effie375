@@ -14,9 +14,7 @@ I am from Greece and I am an undergraduate student from the **University of the 
 
 ## My Projects
 
-- [CFS](https://github.com/Effie375/CFS)
 - [Louvre Museum](https://github.com/Effie375/louvre-museum)
-- [TkGrades](https://github.com/Effie375/TkGrades)
 
 ## My Repositories
 - [Ubuntu](https://github.com/Effie375/Ubuntu)
