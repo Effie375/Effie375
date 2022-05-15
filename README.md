@@ -2,7 +2,7 @@
 
 👩‍🎓 _**[Cultural tecnology and communication|UotA](http://www.ct.aegean.gr/En/En_Index)**_ 👩‍🎓
 
-I am from Greece and I am an undergraduate student from the **University of the Aegean**, where I want to secure a place in the world of programming to use and further develop my analytical skills and knowledge in a practical and fast environment.
+I am a pre-Graduate student at the Department of Cultural Technology and Communication of the University of the Aegean. I want to secure a place in the world of programming to use and further develop my analytical skills and knowledge in a practical and fast environment. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I like to explore new technologies and develop software solutions.
 
 ## My University Courses
 
