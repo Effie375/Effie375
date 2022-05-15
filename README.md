@@ -15,6 +15,7 @@ I am a pre-Graduate student at the Department of Cultural Technology and Communi
 ## My Projects
 
 - [Louvre Museum](https://github.com/Effie375/louvre-museum)
+- [Castle of Molyvos](https://github.com/Effie375/castle-of-molyvos)
 
 ## My Repositories
 - [Ubuntu](https://github.com/Effie375/Ubuntu)
@@ -26,7 +27,8 @@ I am a pre-Graduate student at the Department of Cultural Technology and Communi
 ## My Websites
 
 - [TPTE-Notes](https://effie13kaz.wixsite.com/tpte-notes)
-- [Louvre Museum](http://louvre-museum.atwebpages.com/)
+- [Louvre Museum](http://louvre-museum.atwebpages.com)
+- [Castle of Molyvos](http://castle-of-molyvos.epizy.com)
 
 ### 🛠 &nbsp;Tech Stack
 
